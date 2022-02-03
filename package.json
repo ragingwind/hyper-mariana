@@ -1,0 +1,20 @@
+{
+	"name": "hyper-mariana",
+	"version": "1.0.0",
+	"description": "Hyper theme inspired by Sublime Text 4 Mariana Theme",
+	"license": "MIT",
+	"repository": "ragingwind/hyper-mariana",
+	"author": {
+		"name": "Jimmy Moon",
+		"email": "ragingwind@gmail.com",
+		"url": "ragingwind.com"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"hyper",
+		"hyper-theme",
+		"sublime-text"
+	]
+}
